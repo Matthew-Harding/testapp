@@ -22272,16 +22272,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalApp.UWP\\FinalApp.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp.UWP\\FinalApp.UWP.csproj",
       "projectName": "FinalApp.UWP",
-      "projectPath": "C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalApp.UWP\\FinalApp.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalApp.UWP\\project.json",
+      "projectPath": "C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp.UWP\\FinalApp.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalApp\\FinalApp.csproj": {
-              "projectPath": "C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalApp\\FinalApp.csproj"
+            "C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp\\FinalApp.csproj": {
+              "projectPath": "C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp\\FinalApp.csproj"
             }
           }
         }

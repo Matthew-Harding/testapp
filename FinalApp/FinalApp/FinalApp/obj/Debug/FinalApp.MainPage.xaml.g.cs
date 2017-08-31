@@ -11,8 +11,8 @@
 namespace FinalApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalAp" +
-        "p\\MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp\\MainPage.xa" +
+        "ml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

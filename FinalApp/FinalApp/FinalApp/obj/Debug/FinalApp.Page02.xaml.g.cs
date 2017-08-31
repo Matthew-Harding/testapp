@@ -11,17 +11,17 @@
 namespace FinalApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalAp" +
-        "p\\Page02.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp\\Page02.xaml" +
+        "")]
     public partial class Page02 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Button LogoutButton;
+        private global::Xamarin.Forms.RelativeLayout ScreenArea;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page02));
-            LogoutButton = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "LogoutButton");
+            ScreenArea = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.RelativeLayout>(this, "ScreenArea");
         }
     }
 }

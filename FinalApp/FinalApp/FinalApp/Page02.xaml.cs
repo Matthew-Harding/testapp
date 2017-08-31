@@ -19,6 +19,8 @@ namespace FinalApp
             _appClass = appClass;
 			InitializeComponent ();
             NavigationPage.SetHasNavigationBar(this, false);
+            ScreenArea.HeightRequest = App.ScreenHeight;
+            ScreenArea.WidthRequest = App.ScreenWidth;
         }
 
         private void LogoutButton_Clicked(object sender, EventArgs e)

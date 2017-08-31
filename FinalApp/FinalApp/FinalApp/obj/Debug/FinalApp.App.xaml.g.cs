@@ -11,8 +11,7 @@
 namespace FinalApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SCS-Dev3\\documents\\visual studio 2017\\Projects\\FinalApp\\FinalApp\\FinalAp" +
-        "p\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\SCS-Dev3\\Documents\\GitHub\\testapp\\FinalApp\\FinalApp\\FinalApp\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

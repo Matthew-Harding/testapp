@@ -18,8 +18,6 @@ namespace FinalApp
         {
             _appClass = appClass;
             InitializeComponent();
-           
-
         }
 
         private void Login()
@@ -52,7 +50,7 @@ namespace FinalApp
                 DisplayAlert("Warning", "Please Specify a Username and Password", "OK");
 
             else if(!userNameFilled)
-                DisplayAlert("Warning", "Please Specify a Username", "OK");
+                DisplayAlert("Warning", "Please Specify a Username OR ELSE", "OK");
 
             else
                 DisplayAlert("Warning", "Please Specify a Password", "OK");
