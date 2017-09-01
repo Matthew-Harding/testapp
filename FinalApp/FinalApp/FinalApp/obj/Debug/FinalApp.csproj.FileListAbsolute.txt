@@ -14,6 +14,7 @@ C:\Users\SCS-Dev3\documents\visual studio 2017\Projects\FinalApp\FinalApp\FinalA
 C:\Users\SCS-Dev3\documents\visual studio 2017\Projects\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.dll
 C:\Users\SCS-Dev3\documents\visual studio 2017\Projects\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\FinalApp.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\FinalApp.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Xaml.dll
@@ -25,6 +26,8 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.MainPage.xaml.g.cs
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.App.xaml.g.cs
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.Page02.xaml.g.cs
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.ClientPage.xaml.g.cs
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.ClientInformationPage.xaml.g.cs
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.ProductsPage.xaml.g.cs
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.pdb
-C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\FinalApp.pdb

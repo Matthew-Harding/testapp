@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FinalApp.ProductsPage">
+
+
+    <AbsoluteLayout x:Name="ScreenArea">
+        <RelativeLayout>
+
+            <RelativeLayout 
+                RelativeLayout.WidthConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Width, Factor = 0.9}"
+                RelativeLayout.HeightConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Height, Factor = 0.6}"
+                    RelativeLayout.YConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Height, Factor =0.25}"
+                    RelativeLayout.XConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Width, Factor = 0.05}"  >
+
+                <BoxView BackgroundColor="LightGray"
+                    RelativeLayout.WidthConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Width, Factor = 1}"
+                    RelativeLayout.HeightConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Height, Factor = 0.1}">
+                </BoxView>
+                <Label Text="Products"/>
+
+
+                <ListView    
+                    x:Name="ProductList" ItemsSource="{Binding ProductCollection}"              
+                RelativeLayout.XConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Width, Factor =0}"
+                RelativeLayout.YConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Height, Factor =0.1}"
+                RelativeLayout.HeightConstraint ="{ConstraintExpression
+                Type = RelativeToParent,
+                Property = Height,
+                Factor = 1}"
+                RelativeLayout.WidthConstraint ="{ConstraintExpression
+                Type = RelativeToParent,
+                Property = Width,
+                Factor = 1}"    
+                    >
+
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="*"/>
+                                    </Grid.RowDefinitions>
+
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="*"/>
+                                        <ColumnDefinition Width="*"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <Label Grid.Row="1" Text="{Binding Name}"/>
+                                    <Label Grid.Row="1" Grid.Column="1" Text="Text"/>
+
+                                </Grid>
+                            </ViewCell>
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+
+
+
+
+                </ListView>
+
+            </RelativeLayout>
+
+
+
+        </RelativeLayout>
+        
+    </AbsoluteLayout>
+    
+</ContentPage>

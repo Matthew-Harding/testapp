@@ -67,6 +67,7 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bi
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
@@ -77,6 +78,7 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bi
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\FinalApp.Android.csprojResolveAssemblyReference.cache
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\FinalApp.Android.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\FinalApp.Android.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\bin\FinalApp.Android.apk
@@ -90,13 +92,11 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\ob
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\res\drawable\greenducklogo.jpg
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\R.cs.flag
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\uploadflags.txt
-C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.pdb
-C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\FinalApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.Android.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\FinalApp.Android.dll.mdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\FinalApp.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.dll.mdb
-C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\obj\Debug\android\assets\FinalApp.dll.mdb

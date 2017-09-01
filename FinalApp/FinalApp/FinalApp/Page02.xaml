@@ -68,7 +68,7 @@
                 Property = Width,
                 Factor = 1}"    
                     >
-                    <Button Text="View Clients"/>
+                    <Button Text="View Clients" Clicked="Button_Clicked"/>
                     <Button Text="Add Clients"/>
                     <Button Text="Edit Clients"/>
                     </StackLayout>
