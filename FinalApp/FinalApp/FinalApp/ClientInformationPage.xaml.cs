@@ -13,6 +13,7 @@ namespace FinalApp
     public partial class ClientInformationPage : ContentPage
     {
         Client _selectedClient;
+        bool isBusy = false;
 
         public ClientInformationPage(Client selectedClient)
         {
@@ -53,10 +54,21 @@ namespace FinalApp
 
         }
 
+        protected override void OnAppearing()
+        {
+            isBusy = false;
+            base.OnAppearing();
+        }
+
         //View products button clicked
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new ProductsPage(_selectedClient));
+            if(!isBusy)
+            {
+                isBusy = true;
+                Navigation.PushAsync(new ProductsPage(_selectedClient));
+            }
+
         }
     }
 }

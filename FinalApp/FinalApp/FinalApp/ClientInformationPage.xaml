@@ -19,6 +19,7 @@
                 Type = RelativeToParent,
                 Property = Width,
                 Factor = 1}">
+
                 <Grid
                 RelativeLayout.XConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Width, Factor =0}"
                 RelativeLayout.YConstraint ="{ConstraintExpression Type = RelativeToParent, Property = Height, Factor =0}"
@@ -52,6 +53,9 @@
                     <Image Grid.Row="0" Grid.Column="1" Source="GreenDuckLogo.jpg" HorizontalOptions="Start"/>
 
                 </Grid>
+
+
+
             </RelativeLayout>
 
             <RelativeLayout

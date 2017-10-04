@@ -101,6 +101,7 @@ class MonoPackageManager_Resources {
 		"FinalApp.Android.dll",
 		"FinalApp.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",

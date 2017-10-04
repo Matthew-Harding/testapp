@@ -15,14 +15,30 @@ C:\Users\SCS-Dev3\documents\visual studio 2017\Projects\FinalApp\FinalApp\FinalA
 C:\Users\SCS-Dev3\documents\visual studio 2017\Projects\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\FinalApp.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\FinalApp.pdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Net.Http.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Platform.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Core.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Mono.Security.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Xml.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Net.Http.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Platform.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.pdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.xml
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Core.pdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Core.xml
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Mono.Security.pdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\Mono.Security.xml
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Xml.pdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\bin\Debug\System.Xml.xml
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.MainPage.xaml.g.cs
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.App.xaml.g.cs
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.Page02.xaml.g.cs
@@ -31,3 +47,4 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.ProductsPage.xaml.g.cs
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.pdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp\obj\Debug\FinalApp.csprojResolveAssemblyReference.cache

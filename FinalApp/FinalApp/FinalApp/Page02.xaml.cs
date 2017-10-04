@@ -13,6 +13,7 @@ namespace FinalApp
 	public partial class Page02 : ContentPage
 	{
         App _appClass;
+        bool isBusy = false;
 
 		public Page02 (App appClass)
 		{
@@ -28,9 +29,20 @@ namespace FinalApp
             _appClass.MainPage = new MainPage(_appClass);
         }
 
+        protected override void OnAppearing()
+        {
+            isBusy = false;
+            base.OnAppearing();
+        }
+
         private void Button_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new ClientPage());
+            if(!isBusy)
+            {
+                isBusy = true;
+                Navigation.PushAsync(new ClientPage());
+            }
+            
         }
     }
 }

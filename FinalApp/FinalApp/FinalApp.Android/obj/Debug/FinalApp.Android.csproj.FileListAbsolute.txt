@@ -55,6 +55,7 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bi
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.Android-Signed.apk
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Newtonsoft.Json.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Android.Support.Design.dll
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Android.Support.v4.dll
@@ -70,6 +71,7 @@ C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bi
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FinalApp.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Newtonsoft.Json.xml
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\SCS-Dev3\Documents\GitHub\testapp\FinalApp\FinalApp\FinalApp.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb

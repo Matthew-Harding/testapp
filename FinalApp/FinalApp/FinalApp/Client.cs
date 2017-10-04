@@ -17,12 +17,12 @@ namespace FinalApp
 
     public class Client
     {
+        public int Id                       { get; set; }
         public string Name                  { get; set; }
         public string MainContact           { get; set; }
         public string TelephoneNumber       { get; set; }
         public string RegistrationDate      { get; set; }
         public string Address               { get; set; }
 
-        public ObservableCollection<Product> Products { get; set; }
     }
 }

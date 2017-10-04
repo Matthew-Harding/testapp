@@ -18,17 +18,20 @@ namespace FinalApp
             public ObservableCollection<Product> ProductCollection;
         }
 
-
+        
         public ProductsPage(Client selectedClient)
-        {
+        {  
             InitializeComponent();
             ScreenArea.HeightRequest = App.ScreenHeight;
             ScreenArea.WidthRequest = App.ScreenWidth;
+            NavigationPage.SetHasNavigationBar(this, false);
 
+            /*
             BindingContext = new Context()
             {
                 ProductCollection = selectedClient.Products
             };
+            */
 
 
         }
